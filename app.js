@@ -50,3 +50,28 @@ stopButton.addEventListener("click", (e) => {
   sec = 0;
   min = 0;
 });
+
+
+
+  // let [sSeconds, setsSeconds] = useState(0);
+  // let [minutes, setMinutes] = useState();
+  // let [seconds, setSeconds] = useState();
+  // setInterval(() => {
+  // let sSecond = 0;
+  // setsSeconds(sSecond++);
+  // let minute = "00";
+  // setMinutes(minute);
+  // let second = "00";
+  // setSeconds(second);
+  // }, 1000);
+  // sSecond = 0;
+  // let run = () => {};
+  // setInterval(() => {
+    // setsSeconds(sSeconds++);
+    // console.log(sSeconds);
+  // }, 1000);
+
+  // const start = () => {
+  //   timer = setInterval(run, 10);
+  // console.log(timer);
+  // };
