@@ -11,7 +11,7 @@
 
 ## Project Link
 
-#### You can reach my project from [here](https://esadakman.github.io/stopWatch/) 👈
+#### You can reach my project from [here](https://esadakman.github.io/javascript-stop-watch/) 👈
 
 ## Project Skeleton
 
